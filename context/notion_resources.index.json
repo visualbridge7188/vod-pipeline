@@ -1,0 +1,218 @@
+{
+  "generated_at": "2026-10-03",
+  "total_resources": 35,
+  "static_resources": [
+    {
+      "id": "cafe_main",
+      "title": "메디마케팅스쿨 네이버 공식 카페 (과제 인증)",
+      "url": "https://cafe.naver.com/medimarketingschool",
+      "category": "community"
+    },
+    {
+      "id": "jaryosil_main",
+      "title": "📁 [자료실 & 과제] 메인 안내 페이지",
+      "url": "https://app.notion.com/p/5c9eb9be4dd38325bb9481336fe07296",
+      "category": "main_hub"
+    },
+    {
+      "id": "task_1",
+      "title": "1강 공식 과제 안내 (포부 및 마음가짐)",
+      "url": "https://app.notion.com/p/eb7eb9be4dd3827583e381866d871602",
+      "category": "official_task"
+    },
+    {
+      "id": "task_2",
+      "title": "2강 공식 과제 안내 (블로그 원고 및 유튜브 대본)",
+      "url": "https://app.notion.com/p/326eb9be4dd38200abcc014c207bc4eb",
+      "category": "official_task"
+    },
+    {
+      "id": "task_3",
+      "title": "3강 공식 과제 안내 (전환형 블로그 글 구조 해체 분석)",
+      "url": "https://app.notion.com/p/cf0eb9be4dd38298a11881e651add1fa",
+      "category": "official_task"
+    },
+    {
+      "id": "gdrive_free_lecture",
+      "title": "무료강의 후기 구글 드라이브 자료 폴더",
+      "url": "https://drive.google.com/drive/folders/1wsBA1_yHWS2piJIq4glM0KzEBhe-FZ0W",
+      "category": "google_drive"
+    }
+  ],
+  "database_resources": [
+    {
+      "id": "5d2eb9be-4dd3-82df-b30b-01dd67830be8",
+      "title": "💰영업기밀자료 (영업전화 영상)",
+      "url": "https://app.notion.com/p/5d2eb9be4dd382dfb30b01dd67830be8",
+      "category": "database_resource"
+    },
+    {
+      "id": "cabeb9be-4dd3-8384-aae1-81e0818c22dd",
+      "title": "💰온라인 영업용 인스타광고(메타광고) 소재",
+      "url": "https://app.notion.com/p/cabeb9be4dd38384aae181e0818c22dd",
+      "category": "database_resource"
+    },
+    {
+      "id": "dd2eb9be-4dd3-823b-8c0c-011c217005ef",
+      "title": "병원 인스타광고(메타광고) 실제 진행사례",
+      "url": "https://app.notion.com/p/dd2eb9be4dd3823b8c0c011c217005ef",
+      "category": "database_resource"
+    },
+    {
+      "id": "319eb9be-4dd3-8302-97df-0186ca83bebe",
+      "title": "제안서/이메일/보고서 참고자료",
+      "url": "https://app.notion.com/p/319eb9be4dd3830297df0186ca83bebe",
+      "category": "database_resource"
+    },
+    {
+      "id": "6b4eb9be-4dd3-8308-80df-815187583b66",
+      "title": "의료법과 의료심의 가이드",
+      "url": "https://app.notion.com/p/6b4eb9be4dd3830880df815187583b66",
+      "category": "database_resource"
+    },
+    {
+      "id": "57deb9be-4dd3-821b-b438-810cd55373d5",
+      "title": "리드유컴퍼니 항목별 실행사 리스트",
+      "url": "https://app.notion.com/p/57deb9be4dd3821bb438810cd55373d5",
+      "category": "database_resource"
+    },
+    {
+      "id": "729eb9be-4dd3-82bc-a5a6-8133cb93fec9",
+      "title": "기자단 가이드라인",
+      "url": "https://app.notion.com/p/729eb9be4dd382bca5a68133cb93fec9",
+      "category": "database_resource"
+    },
+    {
+      "id": "61feb9be-4dd3-82c7-af2b-0187b6b5c24e",
+      "title": "보고서 예시 템플릿 & 스크립트",
+      "url": "https://app.notion.com/p/61feb9be4dd382c7af2b0187b6b5c24e",
+      "category": "database_resource"
+    },
+    {
+      "id": "60eeb9be-4dd3-8390-911a-018477c2ccfb",
+      "title": "병원 DB 생성 자료",
+      "url": "https://app.notion.com/p/DB-60eeb9be4dd38390911a018477c2ccfb",
+      "category": "database_resource"
+    },
+    {
+      "id": "80aeb9be-4dd3-82b2-b4c7-81ec3a0c5bf8",
+      "title": "영업의 모든 노하우 및 보고서 양식",
+      "url": "https://app.notion.com/p/80aeb9be4dd382b2b4c781ec3a0c5bf8",
+      "category": "database_resource"
+    },
+    {
+      "id": "d06eb9be-4dd3-823c-ad0e-811c668a5c98",
+      "title": "영업 상담 통화 녹음본 & 스크립트",
+      "url": "https://app.notion.com/p/d06eb9be4dd3823cad0e811c668a5c98",
+      "category": "database_resource"
+    },
+    {
+      "id": "deaeb9be-4dd3-8323-9395-81d3dc03a65b",
+      "title": "전환율을 높이는 글쓰기 템플릿",
+      "url": "https://app.notion.com/p/deaeb9be4dd38323939581d3dc03a65b",
+      "category": "database_resource"
+    },
+    {
+      "id": "c3aeb9be-4dd3-824b-a529-012cd2870bb0",
+      "title": "잘 팔리는 글쓰기 방법",
+      "url": "https://app.notion.com/p/c3aeb9be4dd3824ba529012cd2870bb0",
+      "category": "database_resource"
+    },
+    {
+      "id": "199eb9be-4dd3-834c-a94d-8192f14bc789",
+      "title": "병원블로그 키워드 리스트",
+      "url": "https://app.notion.com/p/199eb9be4dd3834ca94d8192f14bc789",
+      "category": "database_resource"
+    },
+    {
+      "id": "c53eb9be-4dd3-8395-8f17-8162f02c9ebc",
+      "title": "블로그 세팅 방법",
+      "url": "https://app.notion.com/p/c53eb9be4dd383958f178162f02c9ebc",
+      "category": "database_resource"
+    },
+    {
+      "id": "42ceb9be-4dd3-820a-a9ed-014c904c8e38",
+      "title": "분과별 참고 블로그 글",
+      "url": "https://app.notion.com/p/42ceb9be4dd3820aa9ed014c904c8e38",
+      "category": "database_resource"
+    },
+    {
+      "id": "a51eb9be-4dd3-8335-b560-01d71b0a0a22",
+      "title": "체험단 가이드라인",
+      "url": "https://app.notion.com/p/a51eb9be4dd38335b56001d71b0a0a22",
+      "category": "database_resource"
+    },
+    {
+      "id": "996eb9be-4dd3-82d0-a927-01eca08d21cb",
+      "title": "CS 블라인드모니터링, 마케팅 CRM",
+      "url": "https://app.notion.com/p/CS-CRM-996eb9be4dd382d0a92701eca08d21cb",
+      "category": "database_resource"
+    },
+    {
+      "id": "6c4eb9be-4dd3-8225-bb0e-81b14a8ab491",
+      "title": "사전질의서 템플릿",
+      "url": "https://app.notion.com/p/6c4eb9be4dd38225bb0e81b14a8ab491",
+      "category": "database_resource"
+    },
+    {
+      "id": "1caeb9be-4dd3-8335-984f-81e5ccde93dd",
+      "title": "✅26년 6월8일 추가자료 업데이트",
+      "url": "https://app.notion.com/p/26-6-8-1caeb9be4dd38335984f81e5ccde93dd",
+      "category": "database_resource"
+    },
+    {
+      "id": "bb3eb9be-4dd3-82dd-a8fd-01119579b181",
+      "title": "유튜브 자료",
+      "url": "https://app.notion.com/p/bb3eb9be4dd382dda8fd01119579b181",
+      "category": "database_resource"
+    },
+    {
+      "id": "785eb9be-4dd3-8396-8423-01827a56a83d",
+      "title": "블로그 원고작성용 GPT 프롬프트",
+      "url": "https://app.notion.com/p/GPT-785eb9be4dd38396842301827a56a83d",
+      "category": "database_resource"
+    },
+    {
+      "id": "844eb9be-4dd3-8374-8fa5-81a78cf41513",
+      "title": "컨텐츠 작성용 GPTs 프롬프트 지침사항",
+      "url": "https://app.notion.com/p/GPTs-844eb9be4dd383748fa581a78cf41513",
+      "category": "database_resource"
+    },
+    {
+      "id": "a51eb9be-4dd3-8275-8375-011d57cb2457",
+      "title": "병원마케팅 (영업&재계약) 전자책",
+      "url": "https://app.notion.com/p/a51eb9be4dd382758375011d57cb2457",
+      "category": "database_resource"
+    },
+    {
+      "id": "8caeb9be-4dd3-82fa-9c06-81e415f524dd",
+      "title": "메타광고/파워링크 셋팅법",
+      "url": "https://app.notion.com/p/8caeb9be4dd382fa9c0681e415f524dd",
+      "category": "database_resource"
+    },
+    {
+      "id": "a2aeb9be-4dd3-8238-a3dd-818c1097523f",
+      "title": "유튜브 기획 자료",
+      "url": "https://app.notion.com/p/a2aeb9be4dd38238a3dd818c1097523f",
+      "category": "database_resource"
+    },
+    {
+      "id": "c1deb9be-4dd3-83b2-8ae2-81fa39720eb5",
+      "title": "포트폴리오 (블로그/유튜브) + 병원상품기획 자료",
+      "url": "https://app.notion.com/p/c1deb9be4dd383b28ae281fa39720eb5",
+      "category": "database_resource"
+    },
+    {
+      "id": "8fceb9be-4dd3-82f9-b97f-81a28b933fb7",
+      "title": "수강생 BEST 질문&답변",
+      "url": "https://app.notion.com/p/BEST-8fceb9be4dd382f9b97f81a28b933fb7",
+      "category": "database_resource"
+    },
+    {
+      "id": "0b9eb9be-4dd3-830d-9ef8-0109bbedcde8",
+      "title": "협업 병원 실제 성공사례 모음집",
+      "url": "https://app.notion.com/p/0b9eb9be4dd3830d9ef80109bbedcde8",
+      "category": "database_resource"
+    }
+  ]
+}
